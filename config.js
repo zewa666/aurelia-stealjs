@@ -1,0 +1,42 @@
+steal.config({
+  ext: {
+    html: 'text'
+  },
+  paths: {
+    'aurelia-templating-resources@1.4.0#abstract-repeater': 'node_modules/aurelia-templating-resources/dist/commonjs/abstract-repeater.js',
+    'aurelia-templating-resources@1.4.0#analyze-view-factory': 'node_modules/aurelia-templating-resources/dist/commonjs/analyze-view-factory.js',
+    'aurelia-templating-resources@1.4.0#array-repeat-strategy': 'node_modules/aurelia-templating-resources/dist/commonjs/array-repeat-strategy.js',
+    'aurelia-templating-resources@1.4.0#attr-binding-behavior': 'node_modules/aurelia-templating-resources/dist/commonjs/attr-binding-behavior.js',
+    'aurelia-templating-resources@1.4.0#aurelia-hide-style': 'node_modules/aurelia-templating-resources/dist/commonjs/aurelia-hide-style.js',
+    'aurelia-templating-resources@1.4.0#aurelia-templating-resources': 'node_modules/aurelia-templating-resources/dist/commonjs/aurelia-templating-resources.js',
+    'aurelia-templating-resources@1.4.0#binding-mode-behaviors': 'node_modules/aurelia-templating-resources/dist/commonjs/binding-mode-behaviors.js',
+    'aurelia-templating-resources@1.4.0#binding-signaler': 'node_modules/aurelia-templating-resources/dist/commonjs/binding-signaler.js',
+    'aurelia-templating-resources@1.4.0#compose': 'node_modules/aurelia-templating-resources/dist/commonjs/compose.js',
+    'aurelia-templating-resources@1.4.0#css-resource': 'node_modules/aurelia-templating-resources/dist/commonjs/css-resource.js',
+    'aurelia-templating-resources@1.4.0#debounce-binding-behavior': 'node_modules/aurelia-templating-resources/dist/commonjs/debounce-binding-behavior.js',
+    'aurelia-templating-resources@1.4.0#dynamic-element': 'node_modules/aurelia-templating-resources/dist/commonjs/dynamic-element.js',
+    'aurelia-templating-resources@1.4.0#focus': 'node_modules/aurelia-templating-resources/dist/commonjs/focus.js',
+    'aurelia-templating-resources@1.4.0#hide': 'node_modules/aurelia-templating-resources/dist/commonjs/hide.js',
+    'aurelia-templating-resources@1.4.0#html-resource-plugin': 'node_modules/aurelia-templating-resources/dist/commonjs/html-resource-plugin.js',
+    'aurelia-templating-resources@1.4.0#html-sanitizer': 'node_modules/aurelia-templating-resources/dist/commonjs/html-sanitizer.js',
+    'aurelia-templating-resources@1.4.0#if': 'node_modules/aurelia-templating-resources/dist/commonjs/if.js',
+    'aurelia-templating-resources@1.4.0#index': 'node_modules/aurelia-templating-resources/dist/commonjs/index.js',
+    'aurelia-templating-resources@1.4.0#map-repeat-strategy': 'node_modules/aurelia-templating-resources/dist/commonjs/map-repeat-strategy.js',
+    'aurelia-templating-resources@1.4.0#null-repeat-strategy': 'node_modules/aurelia-templating-resources/dist/commonjs/null-repeat-strategy.js',
+    'aurelia-templating-resources@1.4.0#number-repeat-strategy': 'node_modules/aurelia-templating-resources/dist/commonjs/number-repeat-strategy.js',
+    'aurelia-templating-resources@1.4.0#repeat-strategy-locator': 'node_modules/aurelia-templating-resources/dist/commonjs/repeat-strategy-locator.js',
+    'aurelia-templating-resources@1.4.0#repeat-utilities': 'node_modules/aurelia-templating-resources/dist/commonjs/repeat-utilities.js',
+    'aurelia-templating-resources@1.4.0#repeat': 'node_modules/aurelia-templating-resources/dist/commonjs/repeat.js',
+    'aurelia-templating-resources@1.4.0#replaceable': 'node_modules/aurelia-templating-resources/dist/commonjs/replaceable.js',
+    'aurelia-templating-resources@1.4.0#sanitize-html': 'node_modules/aurelia-templating-resources/dist/commonjs/sanitize-html.js',
+    'aurelia-templating-resources@1.4.0#self-binding-behavior': 'node_modules/aurelia-templating-resources/dist/commonjs/self-binding-behavior.js',
+    'aurelia-templating-resources@1.4.0#set-repeat-strategy': 'node_modules/aurelia-templating-resources/dist/commonjs/set-repeat-strategy.js',
+    'aurelia-templating-resources@1.4.0#show': 'node_modules/aurelia-templating-resources/dist/commonjs/show.js',
+    'aurelia-templating-resources@1.4.0#signal-binding-behavior': 'node_modules/aurelia-templating-resources/dist/commonjs/signal-binding-behavior.js',
+    'aurelia-templating-resources@1.4.0#throttle-binding-behavior': 'node_modules/aurelia-templating-resources/dist/commonjs/throttle-binding-behavior.js',
+    'aurelia-templating-resources@1.4.0#update-trigger-binding-behavior': 'node_modules/aurelia-templating-resources/dist/commonjs/update-trigger-binding-behavior.js',
+    'aurelia-templating-resources@1.4.0#with': 'node_modules/aurelia-templating-resources/dist/commonjs/with.js',
+    'aurelia-templating-router@1.1.0#router-view': 'node_modules/aurelia-templating-router/dist/commonjs/router-view.js',
+    'aurelia-templating-router@1.1.0#route-href': 'node_modules/aurelia-templating-router/dist/commonjs/route-href.js'
+    }
+})
