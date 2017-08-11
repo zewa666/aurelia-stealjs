@@ -1,0 +1,26 @@
+{
+  "name": "aurelia-stealjs",
+  "version": "1.0.0",
+  "description": "Aurelia using StealJS loader",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "steal": "^1.5.6"
+  },
+  "steal": {
+    "babelOptions": {
+      "plugins": [
+        "transform-decorators-legacy"
+      ]
+    }
+  },
+  "dependencies": {
+    "aurelia-bootstrapper": "^2.1.1"
+  }
+}
